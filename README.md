@@ -21,7 +21,7 @@ It includes **13 modern ransomware families**, including:
 
 ## 🧱 System architecture
 
-![System architecture](images/arc.png)
+![System architecture](images/arc.jpg)
 
 
 ---
